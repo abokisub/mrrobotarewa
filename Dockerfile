@@ -1,4 +1,4 @@
-FROM serversideup/php:8.3-fpm-nginx
+FROM serversideup/php:8.4-fpm-nginx
 
 # Set the document root for Nginx to point to Laravel's public directory
 ENV AUTORUN_ENABLED=true
